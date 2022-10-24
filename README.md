@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @devkiptoo
+- 👋 Hi, I’m devkiptoo
 - 👀 I’m interested in software development
-- 🌱 I’m currently learningjavascript
+- 🌱 I’m currently learning frontend web development using react
 - 💞️ I’m looking to collaborate on beginner friendly projects
 - 📫 How to reach me devkiptoo@gmail.com
 
